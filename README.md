@@ -133,8 +133,8 @@ Then open your browser and go to [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 **Srujan Patel**  
 BTech CSE @ IIT Indore  
-📧 [Your Email]  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+📧 srujanpatel18.amd@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/srujan-patel21/)
 
 ---
 
